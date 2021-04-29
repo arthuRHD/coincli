@@ -1,0 +1,6 @@
+api.ini
+coincli.egg-info
+__pycache__/*.pyc
+*.pyc
+build
+dist
