@@ -14,8 +14,6 @@ pip install coincli
 - Cryptocurrencies swapping
 - Alerting at certain prices
 
-These will be implemented before June 2021
-
 ## Usage
 
 ```sh
